@@ -1,11 +1,30 @@
-##  Hello World! I'm Danilo :man_technologist: :earth_americas:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8338ec&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+My+Name+is+Danilo+Amaral;I'm+26+years+old;I+from+Brazil,+PE;I'm+a+programmer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo55Amaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo55Amaral&layout=compact&langs_count=7&theme=dracula"/>
+    <p>        
+      <a href="https://github.com/Danilo55Amaral">                   
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Danilo55Amaral&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117" />
+      </a>
+    </p>
+    <p>
+        <!--Stats-->
+        <a href="https://github.com/Danilo55Amaral">
+            <img alt="Mari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danilo55Amaral&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="400px" />
+        </a>
+        <!--Languages-->
+        <a href="https://github.com/Danilo55Amaral">
+            <img alt="Mari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo55Amaral&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" align="right" width="400px" />
+        </a>
+    </p>  
 </div>
+
+
+<br><br>
+
+## Visite meu site de portfolio
+> * https://danilo-amaral-site.vercel.app
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/danilo-amaral-305457195/" target="_blank">
