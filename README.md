@@ -1,3 +1,6 @@
+# Danilo Amaral
+Me chamo Danilo Amaral tenho 27 anos e sou natural de Vitória de Santo Antão Pernambuco, sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Leonardo Da Vinci (UNIASSELVI). Atualmente estou cursando Pós Graduação e me especializando em Data Science.
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8338ec&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+My+Name+is+Danilo+Amaral;I'm+26+years+old;I+from+Brazil,+PE;I'm+a+programmer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -22,6 +25,8 @@
 
 
 <br><br>
+
+[![Danilo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Danilo55Amaral&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Visite meu site de portfolio
 > * https://danilo-amaral-site.vercel.app
